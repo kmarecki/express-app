@@ -1,0 +1,11 @@
+node_modules
+src
+typings
+*.log
+tsconfig.json
+tslint.json
+typings.json
+.vscode
+.gitignore
+.npmignore
+.typingsrc
