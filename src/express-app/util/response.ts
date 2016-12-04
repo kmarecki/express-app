@@ -2,7 +2,7 @@ import * as express from 'express';
 
 export class ResponseUtil {
 
-    static handleError(
+    handleError(
         res: express.Response,
         message: string,
         reason: string,

@@ -1,4 +1,4 @@
-import {ResponseUtil} from './utils/response';
+import { ResponseUtil } from './util/response';
 
 export class ExpressApp {
     static physicalPath: string;
