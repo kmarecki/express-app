@@ -1,2 +1,2 @@
 export { ExpressApp } from './express-app/expressApp';
-export { ResponseUtil } from './express-app/util/response';
+export { ResponseService } from './express-app/services/response';
