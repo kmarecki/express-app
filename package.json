@@ -1,6 +1,6 @@
 {
   "name": "express-app",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Various helper classes for express.js",
   "homepage": "",
   "repository": {
@@ -19,6 +19,6 @@
   "dependencies": {
     "express": "^4.14.0"
   },
-  "main" : "dist/index.js",
+  "main": "dist/index.js",
   "typings": "dist/index.d.ts"
 }
